@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veron\\source\\repos\\Semaforo-RubinMondino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0590ADE7-66F7-4913-9B91-B549216B5617}|Semaforo-RubinMondino\\Semaforo-RubinMondino.csproj|c:\\users\\veron\\source\\repos\\semaforo-rubinmondino\\semaforo-rubinmondino\\semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0590ADE7-66F7-4913-9B91-B549216B5617}|Semaforo-RubinMondino\\Semaforo-RubinMondino.csproj|solutionrelative:semaforo-rubinmondino\\semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0590ADE7-66F7-4913-9B91-B549216B5617}|Semaforo-RubinMondino\\Semaforo-RubinMondino.csproj|c:\\users\\veron\\source\\repos\\semaforo-rubinmondino\\semaforo-rubinmondino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0590ADE7-66F7-4913-9B91-B549216B5617}|Semaforo-RubinMondino\\Semaforo-RubinMondino.csproj|solutionrelative:semaforo-rubinmondino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Semaforo.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\Semaforo-RubinMondino\\Semaforo-RubinMondino\\Semaforo.cs",
+              "RelativeDocumentMoniker": "Semaforo-RubinMondino\\Semaforo.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\Semaforo-RubinMondino\\Semaforo-RubinMondino\\Semaforo.cs",
+              "RelativeToolTip": "Semaforo-RubinMondino\\Semaforo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:16:46.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\Semaforo-RubinMondino\\Semaforo-RubinMondino\\Program.cs",
+              "RelativeDocumentMoniker": "Semaforo-RubinMondino\\Program.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\Semaforo-RubinMondino\\Semaforo-RubinMondino\\Program.cs",
+              "RelativeToolTip": "Semaforo-RubinMondino\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:00:48.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
