@@ -1,0 +1,15 @@
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\bin\Debug\net5.0\cronometro_RubinMondino.exe
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\bin\Debug\net5.0\cronometro_RubinMondino.deps.json
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\bin\Debug\net5.0\cronometro_RubinMondino.runtimeconfig.json
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\bin\Debug\net5.0\cronometro_RubinMondino.runtimeconfig.dev.json
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\bin\Debug\net5.0\cronometro_RubinMondino.dll
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\bin\Debug\net5.0\cronometro_RubinMondino.pdb
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\cronometro_RubinMondino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\cronometro_RubinMondino.AssemblyInfoInputs.cache
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\cronometro_RubinMondino.AssemblyInfo.cs
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\cronometro_RubinMondino.csproj.CoreCompileInputs.cache
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\cronometro_RubinMondino.dll
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\refint\cronometro_RubinMondino.dll
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\cronometro_RubinMondino.pdb
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\cronometro_RubinMondino.genruntimeconfig.cache
+C:\Users\veron\OneDrive\Documents\repos\cronometro_RubinMondino\cronometro_RubinMondino\obj\Debug\net5.0\ref\cronometro_RubinMondino.dll
